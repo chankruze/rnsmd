@@ -1,0 +1,17 @@
+{
+  "name": "rnsmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chankruze/rnsmd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chankruze/rnsmd/issues"
+  },
+  "homepage": "https://github.com/chankruze/rnsmd#readme"
+}
